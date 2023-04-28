@@ -64,23 +64,6 @@
 }
 
 
-
-/* BREAK POINT FOR GALLERY */
-
-figure {
-    display: -webkit-box;
-    display: flex;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
-    -webkit-box-align: start;
-    align-items: flex-start;
-    flex-wrap: nowrap;
-    margin: 1em 0;
-			gap: 5px;
-}
-
-
-
 /* ==========================================================================
    SIDEBAR
    ========================================================================== */

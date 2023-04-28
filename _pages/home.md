@@ -6,23 +6,14 @@ Computer vision, the automated extraction of meaningful information from images,
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/header.png" alt="" class="full"><br>
 
-The Forum will combine symposia, workshops, group discussions and social events to advance the use of computer vision among evolutionary ecologists and to promote networking and collaboration among participants. 
+The Forum will combine symposia, workshops, group discussions and social events to advance the use of computer vision among evolutionary ecologists and to promote networking and collaboration among participants ([see here for more details]({{site.url }}{{ site.baseurl }}/about/)). Participation is free of charge, but there will be a limit to the number of participants in the workshops, so please [register your attendance]({{site.url }}{{ site.baseurl }}/registration/) on this website. 
 
-Participate and listen to the talks, by presenting a poster or giving a short talk, and by joining one or more workshops (not mutually exclusive). Participation is free of charge, but there will be a limit to the number of participants in the workshops, so please [register your attendance]({{site.url }}{{ site.baseurl }}/registration/) on this website. 
-
-Overall, there is an extensive social component to the event, with many opportunities for exchange, discussions and networking. 
-
-
-
-
-
+The event will take place from September 18th to 22nd 2023 at the Department of Biology at Lund University. [Visit this page to see how to get to the Ecology Building](https://www.biology.lu.se/contact/visit-us)
 
 ## News
 
 2023-04-27 - Better late than never: Website is online!
 
 
-
-## Let's connect
-We have started a mailing list to connect those interest T
-, [**join the mailing list** (https://groups.google.com/g/cv-eeb-mail)](https://groups.google.com/g/cv-eeb-mail)
+## Let's connect!
+We have started a mailing list for those interested in using computer vision in ecological and evolutionary research - please sign up if you want to stay connected: [https://groups.google.com/g/cv-eeb-mail](https://groups.google.com/g/cv-eeb-mail)

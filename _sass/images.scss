@@ -11,4 +11,18 @@
     /* align-items: flex-start; */
     /* flex-wrap: wrap; */
     /* margin: 1em 0; */
+	align-items: center;
+}
+
+.fill a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+.third a img{
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
 }
