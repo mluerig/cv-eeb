@@ -1,0 +1,14 @@
+
+.third {
+    /* display: -webkit-box; */
+    display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	gap: 5px;
+    /* -webkit-box-pack: justify; */
+    /* justify-content: space-between; */
+    /* -webkit-box-align: start; */
+    /* align-items: flex-start; */
+    /* flex-wrap: wrap; */
+    /* margin: 1em 0; */
+}

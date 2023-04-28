@@ -1,0 +1,106 @@
+
+/* AUTHOR SIDEBAR */
+
+.author__avatar img {
+    max-width: 175px;
+    border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.author__bio {
+  margin: 0;
+  font-size: 0.9em;
+  font-style: italic;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+.author__content {
+    display: block;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+}
+
+.author__urls {
+    display: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+	padding-left: 65px;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+}
+
+.nav__sub-title {
+    display: block;
+    margin: 0.5rem 0;
+    padding: 0.25rem 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: .80em;
+    font-weight: bold;
+    text-transform: uppercase;
+	border-bottom: 0px solid #51555d;
+
+}
+
+
+/* CONSORTIUM MEMBERS */
+
+.member-grid {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-start;
+	align-content: center;
+	gap:15px;
+	margin-top: 50px;
+	/* max-width: 800px; */
+	/* padding-top:20px; */
+}
+
+.member-content {
+    display: block;
+    width: 300px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+}
+
+.member-content img {
+    width: 150px;
+    border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.member-content p {
+    margin-bottom: 2px;
+	margin-top: 2px;
+
+}
+
+.member-content h3 {
+    font-size: 1.4em
+}
+
+.member-bio {
+  margin: 0;
+  font-size: 0.9em;
+  font-style: italic;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+

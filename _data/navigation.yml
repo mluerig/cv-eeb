@@ -1,0 +1,17 @@
+# main links
+
+main:
+    - title: "Home"
+      url: /
+    - title: "About"
+      url: /about/
+    - title: "Speakers"
+      url: /speakers/
+    - title: "Program"
+      url: /program/
+    - title: "Registration"
+      url: /registration/
+    - title: "Organizers"
+      url: /organizers/
+
+ 

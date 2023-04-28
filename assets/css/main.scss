@@ -1,0 +1,74 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+
+html {
+  font-size: 16px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 16px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px; // change to whatever
+  }
+}
+
+$max-width:1000px;
+
+.page__content {
+  text-align: justify;
+}
+
+.icon-black {
+  color: black !important;
+}
+
+.feature__wrapper {
+    clear: both;
+    margin-bottom: 2em;
+    border-bottom: 0px solid #51555d;
+}
+
+.social-icons .fas, .social-icons .fab, .social-icons .far, .social-icons .fal {
+    color: #eaeaea;
+}
+
+
+.feature__item {
+  a {
+      color: #fff;
+      text-decoration: none;
+  }
+}
+
+
+
+figure img, figure iframe, figure .fluid-width-video-wrapper {
+    margin-bottom: 0em;
+	border-radius: 5px;
+}
+
+.sidebar p, .sidebar li {
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: .85em;
+    line-height: 1.3;
+	padding-bottom: 7px;
+}
+
+@import "author";
+@import "images";
+@import "custom";
+
+
+
