@@ -14,7 +14,6 @@ The full program will be announced in July/August, but for now, please see this 
 | Mingler  | Workshops   |  Workshops | Symposium  | *free*  |
 ||| <- Social events ->|
 
-
 We will cover these topics in the **symposia**:
 
 - Automated biodiversity monitoring

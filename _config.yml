@@ -7,8 +7,8 @@ locale: "en-US"
 title: "International Forum for CV in EEB"
 title_separator: "-"
 subtitle: "Lund University, September 18th - 22nd 2023"
-name: "Forum for Computer Vision in EEB"
-description: "Forum for Computer Vision in EEB"
+# name: "Forum for Computer Vision in EEB"
+# description: "Forum for Computer Vision in EEB"
 words_per_minute: 200
 github: [metadata]
 # twitter:
