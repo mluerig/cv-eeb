@@ -28,6 +28,6 @@ title: Invited keynote speakers
 			</div>
 		</div>
 	
-	% endfor %}
+	{% endfor %}
 
 </div>
