@@ -1,0 +1,326 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Technical instructions: contributing to the wiki - International Forum for CV in EEB</title>
+<meta name="description" content="Here is some information material for anyone interested in contributing to the website (www.asellus.org), or the wiki-page (www.asellus.org/wiki). For the time being, we will use a git-workflow and pull-requests, which can be done quite conveniently via GitHub. For that you need a GitHub account, and some very basic git knowledge. People who possess both can skip to pull requests.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="International Forum for CV in EEB">
+<meta property="og:title" content="Technical instructions: contributing to the wiki">
+<meta property="og:url" content="/news/technical-instructions-wiki">
+
+
+  <meta property="og:description" content="Here is some information material for anyone interested in contributing to the website (www.asellus.org), or the wiki-page (www.asellus.org/wiki). For the time being, we will use a git-workflow and pull-requests, which can be done quite conveniently via GitHub. For that you need a GitHub account, and some very basic git knowledge. People who possess both can skip to pull requests.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2022-01-26T00:00:00+01:00">
+
+
+
+
+
+
+<link rel="canonical" href="/news/technical-instructions-wiki">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Forum for Computer Vision in EEB",
+      "url": "/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="International Forum for CV in EEB Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Technical instructions: contributing to the wiki | International Forum for CV in EEB</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Technical instructions: contributing to the wiki" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Here is some information material for anyone interested in contributing to the website (www.asellus.org), or the wiki-page (www.asellus.org/wiki). For the time being, we will use a git-workflow and pull-requests, which can be done quite conveniently via GitHub. For that you need a GitHub account, and some very basic git knowledge. People who possess both can skip to pull requests." />
+<meta property="og:description" content="Here is some information material for anyone interested in contributing to the website (www.asellus.org), or the wiki-page (www.asellus.org/wiki). For the time being, we will use a git-workflow and pull-requests, which can be done quite conveniently via GitHub. For that you need a GitHub account, and some very basic git knowledge. People who possess both can skip to pull requests." />
+<meta property="og:site_name" content="International Forum for CV in EEB" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-01-26T00:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Technical instructions: contributing to the wiki" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-01-26T00:00:00+01:00","datePublished":"2022-01-26T00:00:00+01:00","description":"Here is some information material for anyone interested in contributing to the website (www.asellus.org), or the wiki-page (www.asellus.org/wiki). For the time being, we will use a git-workflow and pull-requests, which can be done quite conveniently via GitHub. For that you need a GitHub account, and some very basic git knowledge. People who possess both can skip to pull requests.","headline":"Technical instructions: contributing to the wiki","mainEntityOfPage":{"@type":"WebPage","@id":"/news/technical-instructions-wiki"},"url":"/news/technical-instructions-wiki"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          International Forum for CV in EEB
+          <span class="site-subtitle">Lund University, September 18th - 22nd 2023</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/">Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/speakers/">Speakers</a>
+            </li><li class="masthead__menu-item">
+              <a href="/program/">Program</a>
+            </li><li class="masthead__menu-item">
+              <a href="/registration/">Registration</a>
+            </li><li class="masthead__menu-item">
+              <a href="/organizers/">Organizers</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Technical instructions: contributing to the wiki">
+    <meta itemprop="description" content="Here is some information material for anyone interested in contributing to the website (www.asellus.org), or the wiki-page (www.asellus.org/wiki). For the time being, we will use a git-workflow and pull-requests, which can be done quite conveniently via GitHub. For that you need a GitHub account, and some very basic git knowledge. People who possess both can skip to pull requests.">
+    <meta itemprop="datePublished" content="2022-01-26T00:00:00+01:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Technical instructions: contributing to the wiki
+</h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Here is some information material for anyone interested in contributing to the website (www.asellus.org), or the wiki-page (www.asellus.org/wiki). For the time being, we will use a git-workflow and pull-requests, which can be done quite conveniently via GitHub. For that you need a GitHub account, and some very basic git knowledge. People who possess both can skip to <a href="#pull-requests">pull requests</a>.</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<p>If you just want to quickly add some content to the wiki and don’t care about git:</p>
+<ol>
+  <li>make a <a href="https://github.com/">GitHub</a> account and log in</li>
+  <li>go to the <a href="https://github.com/The-Asellus-Consortium/asellus-wiki/tree/main/source">source folder in the wiki repo on GitHub</a></li>
+  <li>edit a markdown file on GitHub (using the pencil symbol / obey <a href="https://kramdown.gettalong.org/quickref.html">markdown syntax</a>)</li>
+  <li>once done, click the “Propose changes” changes button (a consortium member that has access to <a href="https://github.com/The-Asellus-Consortium">The Asellus Consortium</a> GitHub organization will see a “Commit changes” button instead)</li>
+</ol>
+
+<h2 id="basic-info-about-git-and-github">Basic info about git and GitHub</h2>
+
+<p><strong>Git</strong> is a <a href="https://en.wikipedia.org/wiki/Git">version control system</a> for tracking changes in files. It can be run on any OS (Window/Linux/Mac) and is widely used by programmers, scientists or anyone else who is working with code or text files inside a specified folder (=git repository). In a nutshell, git tracks changes in files, and allows you to trace back your progress in time. Moreover, it can compare changes between different versions of your files (they are called “branches”), and merge the changes made by different contributors:</p>
+
+<div style="text-align: center;width=500px">
+  <img src="https://www.growingwiththeweb.com/images/2014/02/23/git-tree.svg" />
+	<figcaption>A git tree with different contributors (taken from <a href="https://www.growingwiththeweb.com/2014/02/a-gentle-introduction-to-git.html ">"A gentle introduction to Git"</a>).</figcaption>
+</div>
+
+<p><strong>GitHub</strong> is a company (owned by Microsoft) that offers webhosting of git repositories (for free). In a sense, GitHub is hardware, and git is software - so, a Git installation on your computer can communicate with the Github servers. There is some extra functionality of GitHub that is not directly offered by Git, such as the possibility to report code issues or have dicussions among contributors. GitHub also can generate websites directly from an online repository (<a href="https://www.luerig.net/posts/website-with-gh-pages">read this blog post</a>) - however, the asellus community websites use <a href="https://www.netlify.com/products/build/">Netlify</a> for this purpose.</p>
+
+<h2 id="setting-up-git-on-your-machine-and-clone-the-wiki">Setting up Git on your machine and clone the wiki</h2>
+
+<ol>
+  <li>
+    <p>To install git on your local machine, follow these instructions: <a href="https://github.com/git-guides/install-git">Install Git</a> (I recommend using the command line instead of GitHub Desktop).</p>
+  </li>
+  <li>
+    <p>After installation, you first need to add a user name and email to the config file for git to know who is making changes to the tree. You can follow the <a href="https://git-scm.com/docs/gittutorial">git tutorial</a> for these first steps.</p>
+  </li>
+  <li>
+    <p><strong>For consortium members:</strong> Once this is set up, you can log in to your account and clone the wiki repository from the consortium page:</p>
+
+    <p><code class="language-plaintext highlighter-rouge">git clone https://github.com/The-Asellus-Consortium/asellus-wiki</code></p>
+
+    <p><strong>For everyone else:</strong> Once this is set up, you should log in to your account and “Fork” the wiki repository: <a href="https://github.com/The-Asellus-Consortium/asellus-wiki">use the “Fork” button on the upper right</a>. Now that you have made a copy to your account, you can “clone” (=download) a copy of the GitHub repo to your local machine using:</p>
+
+    <p><code class="language-plaintext highlighter-rouge">git clone https://github.com/MY-GITHUB-USERNAME/asellus-wiki</code> (replace <code class="language-plaintext highlighter-rouge">MY-GITHUB-USERNAME</code>)</p>
+  </li>
+</ol>
+
+<h2 id="make-changes-and-create-a-pull-request">Make changes (and create a pull request)</h2>
+
+<ol start="4">
+  <li>
+    <p>Go to the cloned folder and you make changes to the documents in the source folder locally, with your favorite text editor. For formatting, follow the <a href="https://kramdown.gettalong.org/quickref.html">markdown syntax</a>.</p>
+  </li>
+  <li>
+    <p>Once you have made some changes, you need to <a href="https://git-scm.com/docs/gittutorial#_making_changes">“stage” and “commit”</a> them:</p>
+
+    <p><code class="language-plaintext highlighter-rouge">git add .</code> (<code class="language-plaintext highlighter-rouge">"."</code> will add all changed files to the tree index)<br />
+  <code class="language-plaintext highlighter-rouge">git commit -m "added info on life history"</code></p>
+  </li>
+  <li>
+    <p>Then you can push them back to the online repo you cloned from in the first place (for consortium members it is the original repo, for everyone else the forked repo):</p>
+
+    <p><code class="language-plaintext highlighter-rouge">git push</code></p>
+  </li>
+  <li>
+    <p><strong>For consortium members:</strong> you are done here!</p>
+
+    <p><strong>For everyone else:</strong>  Once the upload is completed, you need to go back to the repository on github, and create a <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests">pull request</a>, to signal consortium members that we should integrate the changes you made to the repo. For that, go to the tab “Pull requests” in the top row, and click on “New pull request”. After that you should see all the changes you made in a “diff view”. Create a message to be sent along with the pull request (e.g., describing what you changed), and click “Create pull request”.</p>
+  </li>
+</ol>
+
+<h2 id="further-reading">Further reading</h2>
+
+<ul>
+  <li><a href="https://www.growingwiththeweb.com/2014/02/a-gentle-introduction-to-git.html">A gentle introduction to Git</a></li>
+  <li><a href="https://carpentries-incubator.github.io/jekyll-pages-novice/markdown/">Authoring With Markdown
+</a></li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-01-26T00:00:00+01:00">January 26, 2022</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/news/second-asellus-symposium" class="pagination--pager" title="The 2nd Asellus symposium was held online
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+
+    
+
+    <!-- <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li> -->
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 , The Forum organizers . Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
