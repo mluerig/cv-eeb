@@ -12,7 +12,7 @@ title: "Organizers & Sponsors"
 
 **AI Lund:** Kalle Astrom
 
-* Please direct any questions about this event to Moritz
+\* Please direct any questions about this event to Moritz
 
 ## Sponsors
 
