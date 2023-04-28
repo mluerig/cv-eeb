@@ -19,7 +19,7 @@ title: Invited keynote speakers
 			<h3> {{ speaker.name }} </h3>
 			<p> {{ speaker.institute }} </p>
 
-			<p> <a href="{{ speaker.website }}"> website </a> </p>
+			<p> <a href="{{ speaker.website }}"> [website] </a> </p>
 			
 			<div class="member-bio" itemprop="description">
 				<p> {{ speaker.bio }} </p>
