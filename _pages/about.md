@@ -26,7 +26,7 @@ Computer vision, the automated extraction of meaningful information from images 
 
 We will bring together scientists from the domains of biology and computer sciences to interact in symposia, workshops, group discussions and social events and establish new communication and discussion formats across domains. Each symposium will feature keynote lectures from leading experts in the field ([see "Speakers"]({{site.url }}{{ site.baseurl }}/speakers/)), and shorter talks or posters presented by registered participants ([see "Registration"]({{site.url }}{{ site.baseurl }}/registration/)). Moreover, participants will have the chance to learn how to implement computer vision projects through hands-on workshops led by experts ([see "Program"]({{site.url }}{{ site.baseurl }}/program/)). There will be an extensive social component with many opportunities for exchange, discussions and networking.
 
-### Where
+### Where & When
 
 The event will take place from Monday, September 18th to Friday, September 22nd 2023 at the Ecology Building at Lund University. Visit the University website for more [instructions on how to reach the Ecology Building](https://www.biology.lu.se/contact/visit-us)
 
