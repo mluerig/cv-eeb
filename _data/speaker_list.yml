@@ -1,6 +1,6 @@
 - name: "Alexander Mathis"
   website: "https://www.mathislab.org/"
-  institute: "EPFL Lausanne, Switzerland"
+  institute: "EPFL, Switzerland"
   bio: "Animal behaviour and AI-based pose estimation"
   avatar_path: "/assets/images/speakers/mathis.jpg"
   
@@ -24,7 +24,7 @@
   
 - name: "Luca Pegoraro"
   website: "https://www.researchgate.net/profile/Luca-Pegoraro-3"
-  institute: "WSL Birmensdorf, Switzerland"
+  institute: "WSL, Switzerland"
   bio: "Insect biodiversity and DIY CV"
   avatar_path: "/assets/images/speakers/pegoraro.jpg"
   
@@ -36,7 +36,7 @@
   
 - name: "Sara Beery"
   website: "https://beerys.github.io/"
-  institute: "Massachusetts Institute of Technology, USA"
+  institute: "MIT, USA"
   bio: "AI-based conservation and monitoring"
   avatar_path: "/assets/images/speakers/beery.jpg"
   
