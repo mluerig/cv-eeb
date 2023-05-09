@@ -24,3 +24,11 @@ We extend our sincerest thanks to our sponsors:
 - Biology Department (Lund University)
 - Natural and Artificial Cognition / AI Lund (Lund University)
 - Correlative Image Processing and Analysis Unit / CIPA (Lund University)
+
+<br>
+
+<div class="logos">
+			<img src= "/assets/images/logos/hk.png" alt="Hans Kristiansson Minnesfond">
+			<img src= "/assets/images/logos/lh.png" alt="Hans Kristiansson Minnesfond">
+			<img src= "/assets/images/logos/biol.png" alt="Hans Kristiansson Minnesfond">
+</div>
