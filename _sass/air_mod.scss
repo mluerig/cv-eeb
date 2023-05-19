@@ -1,0 +1,44 @@
+/* ==========================================================================
+   Air skin mod
+   ========================================================================== */
+
+/* Colors */
+
+$background-color: #eeeeee;
+$text-color: #222831;
+$muted-text-color: #393e46;
+$primary-color: #BAD8E2;
+$border-color: mix(#fff, #393e46, 75%);
+$footer-background-color: $primary-color;
+$link-color: #94550E;
+$masthead-link-color: $text-color;
+$masthead-link-color-hover: $text-color;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%);
+
+
+.page__footer {
+  color: $text-color;
+  background-color: #BAD8E2;
+
+}
+
+.page__footer a {
+  color: #94550E;
+}
+
+.page__footer-copyright {
+  color: $text-color;
+
+}
+
+a:visited {
+    color: #94550E;
+}
+
+a {
+    color: #94550E;
+}
+
+.greedy-nav .visible-links a:before {
+    background: $primary-color;
+}
