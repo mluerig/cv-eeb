@@ -22,6 +22,7 @@ We extend our sincerest thanks to our sponsors:
 - Evolutionary Ecology Unit (Lund University)
 - Lars Hiertas Minnesfond
 - Biology Department (Lund University)
+- GENECO Graduate School
 - Natural and Artificial Cognition / AI Lund (Lund University)
 - Correlative Image Processing and Analysis Unit / CIPA (Lund University)
 
