@@ -5,7 +5,7 @@ title: "Program"
 ---
 ## Updates
 
-**2023-09-11** - Unfortunately Arthur Porto had to cancel is attendance due to urgent family matters. We are trying to find a replacement for the keynote on Tuesday afternoon. 
+**2023-09-11** - Unfortunately Arthur Porto had to cancel is attendance due to urgent family matters. We are trying to find a replacement for the keynote on Wednesday afternoon. 
 
 ## Conference booklets
 
