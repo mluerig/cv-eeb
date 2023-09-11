@@ -3,30 +3,22 @@ layout: single
 permalink: /program/
 title: "Program"
 ---
+## Updates
 
-The full program will be announced in July/August, but for now, please see this tentative schedule of the week:
+**2023-09-11** - Unfortunately Arthur Porto had to cancel is attendance due to urgent family matters. We are trying to find a replacement for the keynote on Tuesday afternoon. 
 
-|Monday  |Tuesday   |Wednesday   |Thursday  |Friday   |
-|:---:|:---:|:---:|:---:|:---:|
-| *free*| Symposium  | Symposium  | Workshops  | Symposium  |
-| Mingler  | Workshops   |  Workshops | Symposium  | *free*  |
-||| <- Social events ->|
+## Conference booklets
 
-We will cover these topics in the **Hans Kristiansson Symposia**:
+- Special symposium (CV and AI at Lund University, Monday): [Detailed program (with abstracts)](https://docs.google.com/document/d/1E2VXT3X1m7ipvn0JKpzyYadK38hf98LesM5RryDQriU/edit?usp=sharing)
+- Hans Kristiansson Symposium (Forum talks, Tuesday - Friday): [Detailed program (with abstracts)](https://docs.google.com/document/d/1LPqduaWjvVbqU8B-egflHXWIVaVLtnDshYe9R9gRIJc/edit?usp=sharing)
 
-- Automated biodiversity monitoring
-- Evolutionary biology and phenomics
-- Physiology and development
-- Conservation ecology and behavior
+## Overview 
 
-The **workshops** will cover the following topics
+(Click image to download pdf)
 
-- Collecting data 
-- Designing computer vision projects
-- Building models 
-- Prediction, data sharing and building community.
-
-We are currently exploring options for having additional workshops on packages developed by the speakers - e.g., "DeepMeerkat" (Weinstein), ml-morph (Porto), or DeepLabCut (Mathis) - so stay tuned!
+<a href="/assets/files/CV-Forum_Program_v2.pdf">
+    <img src="/assets/images/thumbs/program-v2.png" alt="CV Forum program, v2 (2023-09-11)">
+</a>
 
 
 

@@ -11,7 +11,8 @@ The Forum will combine symposia, workshops, group discussions and social events 
 
 ## Timeline
 2023-09-18 - Forum begins!<br>
-2023-08-01 - Final program is sent out<br>
+2023-09-11 - [Final program uploaded]({{site.url }}{{ site.baseurl }}/program/)<br>
+2023-08-01 - Program is sent out<br>
 2023-06-15 - Deadline to sign up for the workshops or register a talk <br>
 2023-05-08 - [Registration]({{site.url }}{{ site.baseurl }}/registration/) opens!<br>
 2023-04-27 - Website is online!<br>
