@@ -18,8 +18,17 @@ title: "Program"
 (Click image to download pdf)
 
 <a href="/assets/files/CV-Forum_Program - v3.pdf">
-    <img src="/assets/images/thumbs/program-v3.png" alt="CV Forum program, v2 (2023-09-11)">
+    <img src="/assets/images/thumbs/program-v3.png">
 </a>
 
+## Pub night
 
+Due to the number of participants it was not possible to book a place for everyone, so here are suggestions for three pubs where participants could meet for a drink and interact. All of the pubs are in close proximity, and offer a pretty good menue with pub food classics, so they would be a good dinner option. The pubs are:
 
+- Inferno - Paradisgatan 1, 223 50 Lund
+- The Bishop's Arms - Sankt Petri kyrkogata 7, 222 21 Lund
+- John Bull - Bantorget 2, 222 29 Lund
+
+<center>
+<img src="/assets/images/pubs.png" width="1000px">
+</center>

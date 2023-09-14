@@ -9,18 +9,18 @@
   institute: "Stockholm University, Sweden"
   bio: "CV-based morphometrics and paleobiology"
   avatar_path: "/assets/images/speakers/hsiang.jpg"
-
-- name: "Arthur Porto"
-  website: "https://agporto.github.io/"
-  institute: "University of Florida, USA"
-  bio: "AI-based morphometrics and evolution"
-  avatar_path: "/assets/images/speakers/porto.jpg"
   
 - name: "Ben Weinstein"
   website: "http://benweinstein.weebly.com/"
   institute: "University of Florida, USA"
   bio: "Remote sensing and movement"
   avatar_path: "/assets/images/speakers/weinstein.jpg"
+  
+- name: "Christy Anna Hipsley"
+  website: "https://www.evomorpholab.com/"
+  institute: "University of Copenhagen"
+  bio: "3D morphometrics and phenomics"
+  avatar_path: "/assets/images/speakers/hipsley.jpg"
   
 - name: "Luca Pegoraro"
   website: "https://www.researchgate.net/profile/Luca-Pegoraro-3"

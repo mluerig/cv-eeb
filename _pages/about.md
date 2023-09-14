@@ -33,9 +33,22 @@ The event will take place from Monday, September 18th to Friday, September 22nd 
 Visit the University website for more [instructions on how to reach the Ecology Building](https://www.biology.lu.se/contact/visit-us)
 
 <center>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d879.1590193904224!2d13.207422833362093!3d55.71393481647569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465397cb19b262f5%3A0xd9b00a7dcb25d961!2sLunds%20Universitet-Ekologihuset!5e0!3m2!1sen!2sse!4v1682691819172!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d879.1590193904224!2d13.207422833362093!3d55.71393481647569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465397cb19b262f5%3A0xd9b00a7dcb25d961!2sLunds%20Universitet-Ekologihuset!5e0!3m2!1sen!2sse!4v1682691819172!5m2!1sen!2sse" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center><br>
+
+Almost all presentations (except the ones on Friday) will be in the Blue hall (Blå hallen), which is on the eastern end of the Ecology Building. If you come in through entrance 1 (main entrance), you go 20 m to your right when you come in, and you're there. If you enter through entrance 2, you need to walk all the way through the building, until you are there - see floorplan and images below.
+
+<center>
+<img src="/assets/images/entrance.png" width="1000px">
+</center><br>
+<center>
+<img src="/assets/images/floorplan.png" width="1000px">
+</center>
 
 ### Guesthouse
 
+[Information about LU guest house on the university website](https://www.luaccommodation.lu.se/university-guest-house)
 
+<center>
+<img src="/assets/images/guesthouse.png" width="800px">
+</center><br>
