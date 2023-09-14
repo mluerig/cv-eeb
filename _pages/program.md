@@ -5,7 +5,8 @@ title: "Program"
 ---
 ## Updates
 
-**2023-09-11** - Unfortunately Arthur Porto had to cancel is attendance due to urgent family matters. We are trying to find a replacement for the keynote on Wednesday afternoon. 
+**2023-09-13** - We are happy to announce that Christy Anna Hipsley from the University of Copenhagen has taken the vacant keynote slot. Following this change some of the talks on Wednesday were rearranged - please see the updated program below.  
+**2023-09-11** - Unfortunately Arthur Porto had to cancel is attendance due to urgent family matters. We are trying to find a replacement for the keynote on Tuesday afternoon. 
 
 ## Conference booklets
 
@@ -16,8 +17,9 @@ title: "Program"
 
 (Click image to download pdf)
 
-<a href="/assets/files/CV-Forum_Program_v2.pdf">
-    <img src="/assets/images/thumbs/program-v2.png" alt="CV Forum program, v2 (2023-09-11)">
+<a href="/assets/files/CV-Forum_Program - v3.pdf">
+    <img src="/assets/images/thumbs/program-v3.png" alt="CV Forum program, v2 (2023-09-11)">
 </a>
+
 
 
