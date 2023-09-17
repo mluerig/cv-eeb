@@ -7,15 +7,16 @@ Computer vision, the automated extraction of meaningful information from images,
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/header.png" alt="" class="full"><br>
 
-The Forum will combine symposia, workshops, group discussions and social events to advance the use of computer vision among evolutionary ecologists and to promote networking and collaboration among participants ([see here for more details]({{site.url }}{{ site.baseurl }}/about/)). Participation to all events is free of charge, but there will be a limit to the number of oral contributions and participants in the workshops, so please [register your attendance]({{site.url }}{{ site.baseurl }}/registration/) as soon as possible, but before **June 15th 2023**. 
+We will bring together scientists from the domains of biology and computer sciences to interact in symposia, workshops, group discussions and social events and establish new communication and discussion formats across domains. Each symposium will feature keynote lectures from leading experts in the field ([see "Speakers"]({{site.url }}{{ site.baseurl }}/speakers/)), and shorter talks or posters presented by registered participants. There will be an extensive social component with many opportunities for exchange, discussions and networking.
+
 
 ## Timeline
 2023-09-18 - Forum begins!<br>
-2023-09-11 - [Final program uploaded]({{site.url }}{{ site.baseurl }}/program/)<br>
+2023-09-11 - [Final program published]({{site.url }}{{ site.baseurl }}/program/)<br>
 2023-08-01 - Program is sent out<br>
 2023-06-15 - Deadline to sign up for the workshops or register a talk <br>
-2023-05-08 - [Registration]({{site.url }}{{ site.baseurl }}/registration/) opens!<br>
-2023-04-27 - Website is online!<br>
+2023-05-08 - Registration opens<br>
+2023-04-27 - Website is online<br>
 
 ## Let's connect!
 In addition to registering for the Forum, please please feel free to join our mailing list to discuss and exchange on latest applications of computer vision in ecological and evolutionary research: [https://groups.google.com/g/cv-eeb-mail](https://groups.google.com/g/cv-eeb-mail). 

@@ -5,6 +5,7 @@ title: "Program"
 ---
 ## Updates
 
+
 **2023-09-13** - We are happy to announce that Christy Anna Hipsley from the University of Copenhagen has taken the vacant keynote slot. Following this change some of the talks on Wednesday were rearranged - please see the updated program below.  
 **2023-09-11** - Unfortunately Arthur Porto had to cancel is attendance due to urgent family matters. We are trying to find a replacement for the keynote on Tuesday afternoon. 
 
@@ -20,6 +21,19 @@ title: "Program"
 <a href="/assets/files/CV-Forum_Program - v3.pdf">
     <img src="/assets/images/thumbs/program-v3.png">
 </a>
+
+## Lunch options
+
+There are numerous lunch options in or around the Ecology Building - I list the four closest options below (all round 3-5 mins by walking):
+
+- Le Mani ([https://www.facebook.com/lemanilund/](https://www.facebook.com/lemanilund) - Italian pasta (vegetarian Mon-Thurs), panini and salads 
+- Bryggan ([https://mersmak.me/vara-stallen/bryggan/](https://mersmak.me/vara-stallen/bryggan/)) - Meat/Vegetarian dishes (includes salad bar, soup and coffe)
+- Stamstället ([https://stamstallet.se/lunch/](https://stamstallet.se/lunch/)) - Meat/Vegetarian dishes
+- Moroten & Piskan ([https://morotenopiskan.se/](https://morotenopiskan.se/)) - Takeaway / Café style
+
+<center>
+<img src="/assets/images/lunch.png" width="1000px">
+</center>
 
 ## Pub night
 

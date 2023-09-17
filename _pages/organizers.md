@@ -6,11 +6,10 @@ title: "Organizers & Sponsors"
 
 ## Organizers
 
-**Department of Biology:** [Moritz Lürig (lead organizer*)](https://www.luerig.net), Giuseppe Bianco, Sridhar Halali, Ola Olsson, Erik Svensson, Masahito Tsuboi, Christina Rengefors
+**Department of Biology:** [Moritz Lürig (lead organizer*)](https://www.luerig.net), Giuseppe Bianco, Sridhar Halali, Ola Olsson, Erik Svensson, Masahito Tsuboi, Christina Rengefors, Dario Andrea Prifti
 
 **CIPA:** Katja Woxell, Kajsa Paulsson, Anders Sjoström
 
-**AI Lund:** Kalle Åstrom
 
 \* Please direct any questions about this event to Moritz: [moritz.lurig@biol.lu.se](mailto:moritz.lurig@biol.lu.se)
 

@@ -9,8 +9,6 @@ main:
       url: /speakers/
     - title: "Program"
       url: /program/
-    - title: "Registration"
-      url: /registration/
     - title: "Organizers & Sponsors"
       url: /organizers/
 
