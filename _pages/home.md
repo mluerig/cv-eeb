@@ -8,12 +8,18 @@ Computer vision, the automated extraction of meaningful information from images,
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/header.png" alt="" class="full"><br>
 
 
-## Stay in touch
-- Google group: [https://groups.google.com/g/cv-eeb-mail](https://groups.google.com/g/cv-eeb-mail). 
-- Slack community: [AI for conservation](https://join.slack.com/t/aiforconservation/shared_invite/zt-9e1a80pf-Ez0UK51jYv1Lgd~Hwyy5Zw). 
-
-
 ## The participants
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/group.jpg" class="full">
+<div class="align-center" style="width:80%">
+	<a href="/about/">
+	<img src="/assets/images/group.jpg"/>
+	</a>
+</div>
 
+
+
+   
+   
+## Let's stay in touch
+- Google group: [https://groups.google.com/g/cv-eeb-mail](https://groups.google.com/g/cv-eeb-mail). 
+- Slack community: [AI for conservation](https://join.slack.com/t/aiforconservation/shared_invite/zt-9e1a80pf-Ez0UK51jYv1Lgd~Hwyy5Zw). 

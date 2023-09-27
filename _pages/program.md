@@ -6,8 +6,6 @@ title: "Program & recorded talks"
 
 ## Overview 
 
-(Click image to download pdf)
-
 <a href="/assets/files/CV-Forum_Program - v3.pdf">
     <img src="/assets/images/thumbs/program-v3.png">
 </a>
