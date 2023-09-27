@@ -3,11 +3,11 @@
 main:
     - title: "Home"
       url: /
-    - title: "About"
+    - title: "The event"
       url: /about/
-    - title: "Speakers"
+    - title: "Keynote speakers"
       url: /speakers/
-    - title: "Program"
+    - title: "Program & recorded talks"
       url: /program/
     - title: "Organizers & Sponsors"
       url: /organizers/

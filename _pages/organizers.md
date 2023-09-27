@@ -28,7 +28,7 @@ We extend our sincerest thanks to our sponsors:
 <br>
 
 <div class="logos">
-			<img src= "/assets/images/logos/hk.png" alt="Hans Kristiansson Minnesfond">
-			<img src= "/assets/images/logos/lh.png" alt="Hans Kristiansson Minnesfond">
-			<img src= "/assets/images/logos/biol.png" alt="Hans Kristiansson Minnesfond">
+			<img src= "/assets/images/logos/hk.png">
+			<img src= "/assets/images/logos/lh.png">
+			<img src= "/assets/images/logos/biol.png">
 </div>
