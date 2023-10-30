@@ -44,7 +44,7 @@ No recordings - sorry!
 #### Morning session
 
 <div class="video-container">
-	<div class="video-item" style="background-color: rgb(204,204,204)">
+	<div class="video-item none">
 		<div>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Kx0fwSyMdlY?si=REayRm-pg9CQoPVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
@@ -120,7 +120,14 @@ No recordings - sorry!
 </div>
 
 <div class="video-container">
-
+	<div class="video-item lecture">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/mMrU57JWhKU?si=EpBYIBFURX9G0Rur" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Alexander Mathis </b><br> The basics of automated movement detection and pose estimation
+		</div>
+	</div>
 	<div class="video-item lecture">
 		<div>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Dwe4i-7BF-s?si=26gJiLWk2dIGjgcu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -147,8 +154,59 @@ No recordings - sorry!
 	</div>
 </div>
 
+
+### Wednesday (Day 3)
+
+#### Morning session
+
 <div class="video-container">
+	<div class="video-item keynote">
+		<div>
+			<img width="560" height="315" src="/assets/images/no-recording.png">
+		</div>
+		<div class="video-item-bottom">
+			<b> Christy Hipsley </b><br> Visualising evolution in 4D: prospects and challenges for large-scale CT datasets
+		</div>
+	</div>
+</div>
 
+<div class="video-container">
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/0p6J3KXHFHU?si=t1tWzqYFs--T_nOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Yichen He (for Anjali Goswami) </b><br> Biodiversity Phenomics: From Development to Deep Time
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/0p6J3KXHFHU?si=EqKSSXC6CZzl7CST&amp;start=515" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Yichen He </b><br> A Deep Learning Pipeline to Quantify Cranial Suture Morphology from 3D Scans
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/etC2iD69Glw?si=o33VLywJT1PLBd_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Sridhar Halali </b><br> Using micro-CT imaging to unravel the evolution of sensory traits in butterflies
 
-	
+		</div>
+	</div>
+</div>
+
+#### Afternoon session
+
+<div class="video-container">
+	<div class="video-item keynote">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/Gi1FBYhJx9M?si=pIRtCy1vYimhg8pG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Allison Hsiang </b><br> Deep learning in deep time: Using computer vision and automation to study morphology and structure of microfossil communities
+		</div>
+	</div>
 </div>
