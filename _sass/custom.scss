@@ -39,24 +39,32 @@
   flex-wrap: wrap; 
   gap: 10px;
   justify-content: flex-start;
+  padding: 5px;
 }
 
 .video-item {
-  flex: calc(95% / 2);
+  flex: 24%;
+  max-width: 24%;
   display: flex;
   flex-direction: column;
-  max-width: 23%;
-  padding: 5px;
   background-color: rgb(2,254,254);
   line-height: 1.2;
   font-size: 80%;
+  padding: 5px;
+}
+
+.keynote {
+  background-color: rgb(0,255,48);
+}
+
+.lecture {
+  background-color: rgb(255,255,55);
 }
 
 .video-item-bottom {
   text-align: left;
   margin: 5px 0px 0px 0px;
   padding: 2px;
-
 }
 
 @media (max-width: 600px) {

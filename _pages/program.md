@@ -4,16 +4,17 @@ permalink: /program/
 title: "Program & recorded talks"
 ---
 
-## Overview 
+## Program 
+
+### Conference booklets
+
+- Special symposium (CV and AI at Lund University, Monday): [Detailed program (with abstracts)](https://docs.google.com/document/d/1E2VXT3X1m7ipvn0JKpzyYadK38hf98LesM5RryDQriU/edit?usp=sharing)
+- Hans Kristiansson Symposium (Forum talks, Tuesday - Friday): [Detailed program (with abstracts)](https://docs.google.com/document/d/1LPqduaWjvVbqU8B-egflHXWIVaVLtnDshYe9R9gRIJc/edit?usp=sharing)
+- Overview (click to download pdf):
 
 <a href="/assets/files/CV-Forum_Program - v3.pdf">
     <img src="/assets/images/thumbs/program-v3.png">
 </a>
-
-## Conference booklets
-
-- Special symposium (CV and AI at Lund University, Monday): [Detailed program (with abstracts)](https://docs.google.com/document/d/1E2VXT3X1m7ipvn0JKpzyYadK38hf98LesM5RryDQriU/edit?usp=sharing)
-- Hans Kristiansson Symposium (Forum talks, Tuesday - Friday): [Detailed program (with abstracts)](https://docs.google.com/document/d/1LPqduaWjvVbqU8B-egflHXWIVaVLtnDshYe9R9gRIJc/edit?usp=sharing)
 
 ## Recorded talks 
 
@@ -43,7 +44,6 @@ No recordings - sorry!
 #### Morning session
 
 <div class="video-container">
-
 	<div class="video-item" style="background-color: rgb(204,204,204)">
 		<div>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Kx0fwSyMdlY?si=REayRm-pg9CQoPVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -52,8 +52,7 @@ No recordings - sorry!
 			<b> Moritz Lürig </b><br> Opening remarks
 		</div>
 	</div>
-	
-	<div class="video-item" style="background-color: rgb(0,255,48)">
+	<div class="video-item keynote">
 		<div>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/-mHJ7-Ij3hQ?si=N2OWEWB-LriOBEIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
@@ -61,13 +60,9 @@ No recordings - sorry!
 			<b> Sara Beery </b><br> Open Challenges in Generalizable Computer Vision for Ecology
 		</div>
 	</div>
-	
 </div>
 
-<br>
-
 <div class="video-container">
-	
 	<div class="video-item">
 		<div>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/SxH4k9-6xmo?si=8RrCVXnU4D_23HYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -105,6 +100,52 @@ No recordings - sorry!
 
 #### Afternoon session
 
+<div class="video-container">
+	<div class="video-item keynote" >
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/O4K95-0W5FE?si=knXOApqN2_nTpMJJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b>Ben Weinstein </b><br> Towards general models for airborne ecological monitoring
+		</div>
+	</div>
+	<div class="video-item lecture" >
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/wRBG74STulc?si=YVHxnkdqRrqcME0_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b>Ben Weinstein </b><br> A short introduction to applied computer vision 
+		</div>
+	</div>
+</div>
+
+<div class="video-container">
+
+	<div class="video-item lecture">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/Dwe4i-7BF-s?si=26gJiLWk2dIGjgcu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Allison Hsiang </b><br> Building training datasets
+		</div>
+	</div>
+	<div class="video-item lecture">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/bwefMwLUgio?si=h2HqmEfOWUsiiGsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Quentin Geissmann </b><br> DIY hardware for image/video acquisition
+		</div>
+	</div>
+	<div class="video-item lecture">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/aDvSuzZ2dfQ?si=sK0V7In59zbPxL5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Sara Beery </b><br> The CV4Ecology program
+		</div>
+	</div>
+</div>
 
 <div class="video-container">
 
