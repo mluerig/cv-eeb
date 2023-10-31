@@ -210,3 +210,38 @@ No recordings - sorry!
 		</div>
 	</div>
 </div>
+
+<div class="video-container">
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-LwzGC0Y3qw?si=CBSbQlzNcVrHfRDf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Meghan Balk </b><br> Assessing evolvability in a fossil lineage using a CV pipeline to produce phenomic data set
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/9dMMFCHl9zM?si=O4UfasBBhMk8VFhi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Roberta Hunt </b><br> Using AI to Generate Phylogenetic Trees from Images of Pinned Insects
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/9zTnyihQByw?si=ESfJrLJ103YyJQnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Moritz Lürig </b><br> Mapping out morphospace in a color-polymorphic insect using deep learning
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/qICgVfeoqjY?si=IQE1awhHs0oh5YjV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Masahito Tsuboi </b><br> What phenomics will and will not teach us
+		</div>
+	</div>
+</div>
