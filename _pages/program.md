@@ -4,17 +4,16 @@ permalink: /program/
 title: "Program & recorded talks"
 ---
 
-## Program 
-
-### Conference booklets
+## Program
 
 - Special symposium (CV and AI at Lund University, Monday): [Detailed program (with abstracts)](https://docs.google.com/document/d/1E2VXT3X1m7ipvn0JKpzyYadK38hf98LesM5RryDQriU/edit?usp=sharing)
 - Hans Kristiansson Symposium (Forum talks, Tuesday - Friday): [Detailed program (with abstracts)](https://docs.google.com/document/d/1LPqduaWjvVbqU8B-egflHXWIVaVLtnDshYe9R9gRIJc/edit?usp=sharing)
-- Overview (click to download pdf):
+- Program overview (click to view as pdf):
 
 <a href="/assets/files/CV-Forum_Program - v3.pdf">
     <img src="/assets/images/thumbs/program-v3.png">
 </a>
+
 
 ## Recorded talks 
 
@@ -34,14 +33,16 @@ title: "Program & recorded talks"
 		
 </div>
 
+- Monday (Day 1) - no recordings, sorry!
+- [Tuesday (Day 2)](#tuesday-day-2)
+- [Wednesday (Day 3)](#wednesday-day-3)
+- [Thursday (Day 4)](#thursday-day-4)
+- [Friday (Day 5)](#friday-day-5)
 
-### Monday (Day 1)
 
-No recordings - sorry!
+## Tuesday (Day 2)
 
-### Tuesday (Day 2)
-
-#### Morning session
+### Morning session
 
 <div class="video-container">
 	<div class="video-item none">
@@ -98,7 +99,7 @@ No recordings - sorry!
 	</div>
 </div>
 
-#### Afternoon session
+### Afternoon session
 
 <div class="video-container">
 	<div class="video-item keynote" >
@@ -155,9 +156,9 @@ No recordings - sorry!
 </div>
 
 
-### Wednesday (Day 3)
+## Wednesday (Day 3)
 
-#### Morning session
+### Morning session
 
 <div class="video-container">
 	<div class="video-item keynote">
@@ -242,6 +243,155 @@ No recordings - sorry!
 		</div>
 		<div class="video-item-bottom">
 			<b> Masahito Tsuboi </b><br> What phenomics will and will not teach us
+		</div>
+	</div>
+</div>
+
+## Thursday (Day 4)
+
+### Morning session
+
+<div class="video-container">
+	<div class="video-item keynote">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/jfIb2qfAkQU?si=lWdzwdrnR8zrACwx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Alexander Mathis </b><br> Deep Learning Tools for the Analysis of Movement, Identity & Behavior <br> <i> (same talk, but recorded on different occasion) </i>
+		</div>
+	</div>
+</div>
+
+<div class="video-container">
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/9iUhaV9B2fM?si=eWd4bhIRnMYPZfzr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Valentin Gillet </b><br> From image stacks to neuronal connections: machine learning reveals insect neuroanatomy
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/mi5mUnEKWcI?si=_EcqoTUnWllikgRr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Harshith Bachimanchi </b><br> Bringing microplankton to focus: Holography and deep learning
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/cs8UMCGaUWU?si=IWRl9fVCBi07QGu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Hanbang Zou </b><br> Deep learning-based object detection for soil bacterial community analysis in microfluidics
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/iaqsbMW8lko?si=i8ohQKTrZDR0qXc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Nikolay Oskolkov </b><br> Applications of Computer Vision for Studying Cell Morphology
+
+		</div>
+	</div>
+</div>
+
+### Afternoon session
+
+<div class="video-container">
+	<div class="video-item keynote">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/EgJCC2QoC58?si=08VZ_DdyUQPH94uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Seth Donoughe </b><br>  Quantifying tissue traits to reveal how developmental mechanisms shape macroevolutionary trajectories
+
+		</div>
+	</div>
+</div>
+
+<div class="video-container">
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/V-L5OSAVRiU?si=Iy4Z4gBresRCtYka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Matteo Redana </b><br> Use of videotracking to understand sub-critical thermal effects of freshwater macroinvertebrates
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/4pwitY-oFyo?si=ZpgShFPz1sEsEREn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Erik Svensson </b><br> Using thermal imaging to study quantitative genetics and selection on plasticity and thermal adaptation
+		</div>
+	</div>
+</div>
+
+
+## Friday (Day 5)
+
+### Morning session
+
+<div class="video-container">
+	<div class="video-item keynote">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/zbZyFQhWjSQ?si=0h3COZJoo7ajbNZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Luca Pegoraro </b><br> Keynote: Luca Pegoraro - Towards automated insect monitoring in the wild: promises and challenges
+
+		</div>
+	</div>
+</div>
+
+<div class="video-container">
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/TbAV8x6g8I4?si=GuRbaqtkDojNFgMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Maja Tarka </b><br> Measuring multivariate beetle morphology in wild populations
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/79_kBkHfi-E?si=_K3Fhq6vNIHRAw6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Najmeh Abiri </b><br> Tick Species Classification Using Deep Learning Models: Challenges and Solutions in Citizen Science Projects
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/40BU6of1bZc?si=ltyvSvjNe0wtztD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Ola Olsson </b><br> High-throughput quantitative pollen analysis based on computer vision and deep learning
+		</div>
+	</div>
+	<div class="video-item">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/ENt9lROKhD0?si=B6EJWqnY9CACEQYF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Giuseppe Bianco </b><br> Engineering image acquisition for CV
+		</div>
+	</div>
+</div>
+
+### Afternoon session
+
+<div class="video-container">
+	<div class="video-item keynote">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/pL5cTnBuSDE?si=0rIcegMlNGff1FWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</div>
+		<div class="video-item-bottom">
+			<b> Quentin Geissmann </b><br> Insect Ecology in the Digital Age: Smart Traps and Automated Identification
 		</div>
 	</div>
 </div>

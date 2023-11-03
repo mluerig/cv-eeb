@@ -53,6 +53,27 @@
   padding: 5px;
 }
 
+@media (max-width: 500px) {
+
+  .video-container {
+  flex-direction: column;
+  }
+  
+  .video-item {
+    width: 100%;
+	max-width: 100%;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 1000px) {
+
+
+  .video-item {
+  flex: 45%;
+  max-width: 45%;
+  }
+}
+
 .none {
   background-color: rgb(204,204,204);
 }
@@ -70,18 +91,6 @@
   margin: 5px 0px 0px 0px;
   padding: 2px;
 }
-
-@media (max-width: 600px) {
-  .video-container {
-  flex-direction: column;
-  }
-  .video-container .video-item {
-    width: 100%;
-	max-width: 100%;
-  }
-}
-
-
 
 /* ==========================================================================
    SIDEBAR
