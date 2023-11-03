@@ -53,7 +53,7 @@
   padding: 5px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 565px) {
 
   .video-container {
   flex-direction: column;
@@ -65,12 +65,11 @@
   }
 }
 
-@media (min-width: 400px) and (max-width: 800px) {
-
+@media (min-width: 565px) and (max-width: 800px) {
 
   .video-item {
-  flex: 45%;
-  max-width: 45%;
+  flex: 49%;
+  max-width: 49%;
   }
 }
 

@@ -46,7 +46,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item none">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Kx0fwSyMdlY?si=REayRm-pg9CQoPVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -54,7 +54,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item keynote">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/-mHJ7-Ij3hQ?si=N2OWEWB-LriOBEIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -65,7 +65,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/SxH4k9-6xmo?si=8RrCVXnU4D_23HYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -73,7 +73,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/KwxC8hrsN1k?si=ZRktwhiz3C7jxr6X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -81,7 +81,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/dloNjJkSkSs?si=93zEv3scmeKG57jC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -90,7 +90,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/C4ZAdj_N908?si=hln3oosWLxEVt58Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -103,7 +103,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item keynote" >
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/O4K95-0W5FE?si=knXOApqN2_nTpMJJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -111,7 +111,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item lecture" >
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/wRBG74STulc?si=YVHxnkdqRrqcME0_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -122,7 +122,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item lecture">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/mMrU57JWhKU?si=EpBYIBFURX9G0Rur" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -130,7 +130,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item lecture">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Dwe4i-7BF-s?si=26gJiLWk2dIGjgcu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -138,7 +138,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item lecture">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/bwefMwLUgio?si=h2HqmEfOWUsiiGsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -146,7 +146,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item lecture">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/aDvSuzZ2dfQ?si=sK0V7In59zbPxL5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -162,7 +162,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item keynote">
-		<div>
+		<div class="video-item-top">
 			<img width="560" height="315" src="/assets/images/no-recording.png">
 		</div>
 		<div class="video-item-bottom">
@@ -173,7 +173,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/0p6J3KXHFHU?si=t1tWzqYFs--T_nOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -181,7 +181,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/0p6J3KXHFHU?si=EqKSSXC6CZzl7CST&amp;start=515" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -189,7 +189,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/etC2iD69Glw?si=o33VLywJT1PLBd_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -199,11 +199,11 @@ title: "Program & recorded talks"
 	</div>
 </div>
 
-#### Afternoon session
+### Afternoon session
 
 <div class="video-container">
 	<div class="video-item keynote">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/Gi1FBYhJx9M?si=pIRtCy1vYimhg8pG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -214,7 +214,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/-LwzGC0Y3qw?si=CBSbQlzNcVrHfRDf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -222,7 +222,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/9dMMFCHl9zM?si=O4UfasBBhMk8VFhi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -230,7 +230,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/9zTnyihQByw?si=ESfJrLJ103YyJQnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -238,7 +238,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/qICgVfeoqjY?si=IQE1awhHs0oh5YjV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -253,7 +253,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item keynote">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/jfIb2qfAkQU?si=lWdzwdrnR8zrACwx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -264,7 +264,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/9iUhaV9B2fM?si=eWd4bhIRnMYPZfzr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -272,7 +272,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/mi5mUnEKWcI?si=_EcqoTUnWllikgRr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -280,7 +280,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/cs8UMCGaUWU?si=IWRl9fVCBi07QGu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -288,7 +288,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/iaqsbMW8lko?si=i8ohQKTrZDR0qXc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -302,7 +302,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item keynote">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/EgJCC2QoC58?si=08VZ_DdyUQPH94uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -314,7 +314,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/V-L5OSAVRiU?si=Iy4Z4gBresRCtYka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -322,7 +322,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/4pwitY-oFyo?si=ZpgShFPz1sEsEREn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -338,7 +338,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item keynote">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zbZyFQhWjSQ?si=0h3COZJoo7ajbNZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -350,7 +350,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/TbAV8x6g8I4?si=GuRbaqtkDojNFgMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -358,7 +358,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/79_kBkHfi-E?si=_K3Fhq6vNIHRAw6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -366,7 +366,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/40BU6of1bZc?si=ltyvSvjNe0wtztD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -374,7 +374,7 @@ title: "Program & recorded talks"
 		</div>
 	</div>
 	<div class="video-item">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/ENt9lROKhD0?si=B6EJWqnY9CACEQYF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
@@ -387,7 +387,7 @@ title: "Program & recorded talks"
 
 <div class="video-container">
 	<div class="video-item keynote">
-		<div>
+		<div class="video-item-top">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/pL5cTnBuSDE?si=0rIcegMlNGff1FWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 		<div class="video-item-bottom">
